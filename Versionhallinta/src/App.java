@@ -24,5 +24,19 @@ public class App {
         System.out.println(numero3);
 
 
+        if (numero1 == 7 || numero2 == 7 || numero3 == 7)
+        {
+            System.out.println("Voitit pelin!");
+        }
+        else
+        {
+            System.out.println("Hävisit pelin!");
+        }
+    
+    
+    
+    
     }
+
+
 }
